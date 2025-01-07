@@ -1,5 +1,3 @@
-# test
-test
 git init
      echo "# ITT320-Test" > README.md
      git add README.md
